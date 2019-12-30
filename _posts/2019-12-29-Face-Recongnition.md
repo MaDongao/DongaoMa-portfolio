@@ -3,7 +3,7 @@ title: Face Recognition System
 published: true
 ---
 
-This is a brief introduction for a project, "Face Recognition Systems Based on Sparse Representation", funded by Beijing University Students' Scientific Research and Entrepreneurship Action Plan.
+This is a brief introduction for a project, "Face Recognition Systems Based on Sparse Representation", funded by Beijing University Students' Scientific Research and Entrepreneurship Action Plan in 2014.
 
 
 The system consisted of three modules: face detection using the Haar classifier, face recognition based on Sparse Representation algorithm, and a database system based on Structured Query Language.
