@@ -1,9 +1,9 @@
 ---
-title: SiftingGAN: Generating and Sifting Labeled Samples to Improve the Remote Sensing Image Scene Classification Baseline In Vitro
+title: SiftingGAN
 published: true
 ---
 
-[1] SiftingGAN: Generating and Sifting Labeled Samples to Improve the Remote Sensing Image Scene Classification Baseline In Vit ro, IEEE Geoscience and Remote Sensing Letters , 01/14/2019
+[1] SiftingGAN: Generating and Sifting Labeled Samples to Improve the Remote Sensing Image Scene Classification Baseline In Vitro, IEEE Geoscience and Remote Sensing Letters , 01/14/2019
 <https://ieeexplore.ieee.org/document/8611213>
 
 **Abstract**:
