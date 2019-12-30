@@ -1,15 +1,15 @@
 ---
-title: Another Sample Page
+title: Other Works
 published: true
 ---
+# [](#header-1)Binocular Visual Target Tracking
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+This is a brief introduction for a project,“Binocular Vision Target Tracking System for Network Camera Based on CMT Algorithms”, funded by National College Student Innovation Training Program in 2015. 
 
-[Link to another page](another-page).
+We realized the “Selection-Recognition-Tracking” module in static mode, implemented the dynamic tracking on the adjustable network surveillance camera, and finally completed the communication and coordinated tracking between the binocular cameras. 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![](https://i0.hdslb.com/bfs/album/8075e35b3930faef000bbc1c1131bef22f996ee0.jpg@1036w_1e_1c.jpg)
+![](https://i0.hdslb.com/bfs/album/1db277c4960ec96c0b406975d5f2caefd139b5a2.png@1036w_1e_1c.png)
 
 # [](#header-1)Header 1
 
