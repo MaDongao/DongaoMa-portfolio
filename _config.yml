@@ -1,7 +1,7 @@
 title: DongaoMa-portfolio
 description: "A portfolio of Dongao Ma"
 author:
-  name: "Dongao Ma-portfolio"
+  name: "Dongao Ma"
   email: "dongaomaapply@outlook.com"
   url: "https://madongao.github.io/DongaoMa-portfolio/"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "DongaoMa"
+owner : "DongaoMa-portfolio"
 year : "2019"
