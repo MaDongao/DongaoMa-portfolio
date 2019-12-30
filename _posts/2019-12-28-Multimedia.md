@@ -9,9 +9,4 @@ This demo is for a course work on Multimedia Technology and Application, using A
 
 
 
-Project image
-
-![](../assets/AuthorwareProject.PNG)
-
-
 
