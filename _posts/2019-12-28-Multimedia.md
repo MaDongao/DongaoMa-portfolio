@@ -9,9 +9,9 @@ This demo is for a course work on Multimedia Technology and Application, using A
 
 
 
-### Large image
+Project image
 
-![](assets/AuthorwareProject.PNG)
+![](https://github.com/MaDongao/DongaoMa-portfolio/blob/master/assets/AuthorwareProject.PNG)
 
 
 
