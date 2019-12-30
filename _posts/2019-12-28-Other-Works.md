@@ -8,7 +8,7 @@ This is a brief introduction for a project,“Binocular Vision Target Tracking S
 
 We realized the “Selection-Recognition-Tracking” module in static mode, implemented the dynamic tracking on the adjustable network surveillance camera, and finally completed the communication and coordinated tracking between the binocular cameras. 
 
-![](https://i0.hdslb.com/bfs/album/8075e35b3930faef000bbc1c1131bef22f996ee0.jpg@1036w_1e_1c.jpg)
+![](https://raw.githubusercontent.com/MaDongao/DongaoMa-portfolio/master/assets/SiftingGAN.png)
 ![](https://i0.hdslb.com/bfs/album/1db277c4960ec96c0b406975d5f2caefd139b5a2.png@1036w_1e_1c.png)
 
 # [](#header-1)Header 1
